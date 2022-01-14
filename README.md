@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-    <img alt="Letmeask" src="./public/demo.mp4" />
+    <img alt="WatchMe" src="https://github.com/davisllv/watchMe/blob/main/public/Recording%202022-01-14%20at%2007.17.29.gif?raw=true" />
 </h1>
 
 <br>
@@ -41,7 +41,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:8080.
 
 ## 💻 Projeto
 
-to.Do é um conceito muito famoso de listas de tarefas a serem feitas, nesse projeto é justamente para isso, agrupar as suas tarefas diárias, em que é possível marcá-las como feitas ou, até mesmo, apagá-las, após serem feitas
+WatchMe é um projeto feito para a demonstração de filmes em cartazes, com seus ratings, tempo de filme, nome do filme e seus posters, todo esse projeto foi feito durante o bootcamp do ignite para o aprendizado da elevação de estados, embora na minha aplicação eu tenha utilizado context do próprio React.
 
 Este é um projeto desenvolvido durante o **[Ignite]**.
 
